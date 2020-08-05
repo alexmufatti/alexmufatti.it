@@ -1,0 +1,12 @@
+{
+  "short_name": "Alex Mufatti",
+  "name": "Alex Mufatti",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "background_color": "#111",
+  "theme_color": "#111"
+}
